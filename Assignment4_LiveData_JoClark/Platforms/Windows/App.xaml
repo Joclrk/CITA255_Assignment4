@@ -1,0 +1,8 @@
+﻿<maui:MauiWinUIApplication
+    x:Class="Assignment4_LiveData_JoClark.WinUI.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:maui="using:Microsoft.Maui"
+    xmlns:local="using:Assignment4_LiveData_JoClark.WinUI">
+
+</maui:MauiWinUIApplication>
